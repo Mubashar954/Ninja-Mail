@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mheading{
+    font-family: 'Playfair Display', serif;
+    font-size:59px ;
+    left: 0px;
+    top: 0px;
+}
+.heroimg{
+    left: 450px;
+    top: 0px;
+    z-index: -1;
+}
+.mpara{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.heobtn{
+    
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+    /* background-color: white; */
+}
+.gbg{
+    background-color: #FFFFFF;
+    height: 350vh;
+
+}
+.h2-section{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+    color: white;
+}
+.cardh2{
+    font-family: 'Playfair Display', serif;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-weight: 900;
+    font-size: 44px;
+    color: black;
+}
+.card3txt{
+    font-family: 'Raleway', sans-serif;
+
+}
+.cardspara3{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+.headingnews{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+    font-size: 34px;
+}
+.headingnewspara{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+    font-size: 19px;
+}
+.newsp{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+
+}
+.news-text{
+    font-family: 'Playfair Display', serif;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-size: 60px;
+    font-weight: 900;
+    color: black;
+    align-items: center;
+}
+.getstarted{
+    height: 50vh;
+}
+.getstartedtxt{
+    
+    font-family: 'Playfair Display', serif;
+    font-size:60px ;
+    top: 20vh;
+    
+}
+.todaybtn{
+    font-family: 'Raleway', sans-serif;
+}
+.footer{
+    height: 50vh;
+}
